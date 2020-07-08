@@ -1,0 +1,7 @@
+/__pycache__
+/.ipynb_checkpoints
+/.vscode
+/SQL
+login.txt
+pages.feather
+snowflake_python_connector_log.txt
